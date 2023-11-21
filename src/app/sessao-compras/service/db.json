@@ -1,0 +1,11 @@
+{
+    "produtos":[
+        {
+            "img":"../../assets/0070847022015.jpg",
+            "nome":"Energetico Monster",
+            "descricao":"O melhor Energetico da atualidade, venha comprar, disponivel em todos os mercados !!!",
+            "id":1,
+            "valor":12
+        }
+    ]
+}
